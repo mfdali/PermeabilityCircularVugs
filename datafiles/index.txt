@@ -1,1 +1,0 @@
-'Count','P_Area_100','WAv_Lx','Alignment','Alignment2','Eccent','WAv_ly','Lx_norm','Ly_norm','Perimeter','EquivDiameter','Major','Minor','DifMajorMinor','Av_Area','Std_area','var_Area','Std_Lx','var_Lx','keq_simulation'

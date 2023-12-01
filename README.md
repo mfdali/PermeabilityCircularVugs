@@ -1,2 +1,2 @@
 # PermeabilityCircularVugs
-Data Analysis of numerical simulations of flow in vugular porous media
+Data Analyses of numerical simulations of flow in vugular porous media

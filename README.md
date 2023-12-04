@@ -11,7 +11,7 @@ Data preparation || Machinel Learning || Deep Learning
 
   - :robot: Machine Learning Pipeline to estimate flow in vugular porous media - [MVP_Sprint2_ML_Monique_Dali.ipynb](https://github.com/mfdali/PermeabilityCircularVugs/blob/main/MVP_Sprint2_ML_Monique_Dali.ipynb)
 
-  - :brain: Deep Learning Pipeline to estimate flow in vugular porous media - [MVP_Sprint2_DeepL_Monique_Dali.ipynb](https://github.com/mfdali/PermeabilityCircularVugs/blob/main/MVP_Sprint2_DeepL_Monique_Dali.ipynb)
+  - :brain: Deep Learning Pipeline to estimate flow in vugular porous media (Regression model) - [MVP_Sprint2_DeepL_Monique_Dali.ipynb](https://github.com/mfdali/PermeabilityCircularVugs/blob/main/MVP_Sprint2_DeepL_Monique_Dali.ipynb)
 
 - ## Project Context
 These notebooks were implemented as required for the Data Science & Analytics graduate program at Computer Science Department at PUC-Rio.

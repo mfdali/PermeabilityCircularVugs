@@ -3,6 +3,9 @@ Data preparation || Machinel Learning || Deep Learning
 
 ## Data Analyses of numerical simulations of flow in vugular porous media
 
+- ## Language
+  Python
+
 - ## Codes
 Data preparation - MVP_CD_Sprint1_Monique_Dali.ipynb
 
@@ -14,7 +17,12 @@ Deep Learning Pipeline to estimate flow in vugular porous media - MVP_Sprint2_De
 These notebooks were implemented as required for the Data Science & Analytics graduate program at Computer Science Department at PUC-Rio.
 
 - ## Database
-This folder contains data of reservoir engineering. This project consists of parameters and solutions from numerical simulations of fluid flow in two-dimensional layers of two rock samples. The sample under exploration is carbonate rock, which presents pores at different scales what makes flow modelling a challenge task.
+This folder contains data of reservoir engineering. This project consists of parameters and solutions from numerical simulations of fluid flow in two-dimensional layers of two rock samples. The sample under exploration is carbonate rock, which presents pores at different scales what makes flow modelling a challenge task. 
+
+The Database folder contains thousands tomographic images, csv files with shape parameters extracted from these images, simulation parameters and results.
+
+![image](https://github.com/mfdali/PermeabilityCircularVugs/assets/68743809/d972c167-7f3c-45a1-83bc-a97247ec3ce5)
+
 
 - ## Project Overview
 

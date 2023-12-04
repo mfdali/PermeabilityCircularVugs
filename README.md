@@ -27,6 +27,7 @@ For more details about the study that generated this dataset, the article is ava
 - ## Variables
 
 The following variables were selected from the different datasets to build the pipeline:
+
 | Label | Description |
 | -------- | -------- |
 | Image_file, Id1, Id2, Slice | Filename and image identifiers |

@@ -27,15 +27,17 @@ For more details about the study that generated this dataset, the article is ava
 - ## Variables
 
 The following variables were selected from the different datasets to build the pipeline:
-Image_file, Id1, Id2, Slice - Filename and image identifiers
-Sample - Core sample tag (5 or 8)
-Threshold - Group the images that use the same technique for dividing an image into two (or more) classes of pixels, which are typically called “foreground” and “background.” The label 1 represents the binarized image without further manipulations to increase the size of the cavities in the core samples.
-%Area - Represents the percentual of the total area that the cavities occupy. It is also called Macroporosity (%)
-K(m2),Keq(m2) - porous matrix permeability and equivalent permeability (m²). 
-Delta P(Pa) - Pressure differential imposed in simulation (Pa)
-Count - Cavities quantity
-Total Area - Area of selection in square pixels
-Average Size - cavity size average
-Perimeter - The average length of the outside boundary of the cavities.
-Knorm - Permeability increment due to the presence of empty spaces, the cavities. Equivalent permeability = equivalent permeability / porous matrix permeability
-Direction - In which direction the flow was simulated.
+| Label | Description |
+| -------- | -------- |
+| Image_file, Id1, Id2, Slice | Filename and image identifiers |
+| Sample | Core sample tag (5 or 8) |
+| Threshold | Group the images that use the same technique for dividing an image into two (or more) classes of pixels, which are typically called “foreground” and “background.” The label 1 represents the binarized image without further manipulations to increase the size of the cavities in the core samples. |
+| %Area | Represents the percentual of the total area that the cavities occupy. It is also called Macroporosity (%) |
+| K(m2),Keq(m2) | porous matrix permeability and equivalent permeability (m²). |
+| Delta P(Pa) | Pressure differential imposed in simulation (Pa) |
+| Count | Cavities quantity |
+| Total Area | Area of selection in square pixels |
+| Average Size | cavity size average |
+| Perimeter | The average length of the outside boundary of the cavities. |
+| Knorm | Permeability increment due to the presence of empty spaces, the cavities. Equivalent permeability = equivalent permeability / porous matrix permeability |
+| Direction | In which direction the flow was simulated. |

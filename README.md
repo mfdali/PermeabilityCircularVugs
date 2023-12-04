@@ -21,8 +21,9 @@ This folder contains data of reservoir engineering. This project consists of par
 
 The Database folder contains thousands tomographic images, csv files with shape parameters extracted from these images, simulation parameters and results.
 
-![image](https://github.com/mfdali/PermeabilityCircularVugs/assets/68743809/d972c167-7f3c-45a1-83bc-a97247ec3ce5 "Binarized tomographic image of a core sample layer") 
-White area represents the pore matrix and black objects are empty cavities. The flow fluids in both zones.
+![image](https://github.com/mfdali/PermeabilityCircularVugs/assets/68743809/d972c167-7f3c-45a1-83bc-a97247ec3ce5) 
+
+Binarized tomographic image of a core sample layer. White area represents the pore matrix and black objects are empty cavities. The flow fluids in both zones.
 
 
 - ## Project Overview

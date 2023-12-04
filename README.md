@@ -7,11 +7,11 @@ Data preparation || Machinel Learning || Deep Learning
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - ## Codes
-Data preparation - MVP_CD_Sprint1_Monique_Dali.ipynb
+  - Data preparation - MVP_CD_Sprint1_Monique_Dali.ipynb
 
-Machine Learning Pipeline to estimate flow in vugular porous media - MVP_Sprint2_ML_Monique_Dali.ipynb
+  - Machine Learning Pipeline to estimate flow in vugular porous media - MVP_Sprint2_ML_Monique_Dali.ipynb
 
-Deep Learning Pipeline to estimate flow in vugular porous media - MVP_Sprint2_DeepL_Monique_Dali.ipynb
+  - Deep Learning Pipeline to estimate flow in vugular porous media - MVP_Sprint2_DeepL_Monique_Dali.ipynb
 
 - ## Project Context
 These notebooks were implemented as required for the Data Science & Analytics graduate program at Computer Science Department at PUC-Rio.

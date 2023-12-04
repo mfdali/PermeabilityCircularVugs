@@ -31,6 +31,7 @@ Fluid flow model in heterogeneous reservoir. The simulator was implemented by Da
 The image database for the simulation is composed of tomographic images of two carbonate samples with cavities, which do not have a theoretical solution for the flow. Based on these images, others were virtually manipulated to obtain larger macroporosities. Some attributes were extracted from the images to implement a Machine Learning model. The dataset presents various attributes obtained from the image, study construction parameters and the absolute permeability estimated by the simulation. 
 
 For more details about the study that generated this dataset, the article is available at: 
+
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white) https://www.researchgate.net/publication/337746813_Equivalent_permeability_in_vuggy_porous_media_using_Brinkman%27s_model
 
 - ## Variables

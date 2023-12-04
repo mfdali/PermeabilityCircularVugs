@@ -35,7 +35,7 @@ For more details about the study that generated this dataset, the article is ava
 
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white) https://www.researchgate.net/publication/337746813_Equivalent_permeability_in_vuggy_porous_media_using_Brinkman%27s_model
 
-- ## Variables
+- ## Metadata
 
 The following variables were selected from the different datasets to build the pipeline:
 
